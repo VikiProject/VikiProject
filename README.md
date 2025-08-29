@@ -1,6 +1,6 @@
 # Hi, I’m Vikas 👋
 
-**IT Business Analyst · Data & Automation · Melbourne, AU**
+**IT Business Analyst · Data & Automation · Melbourne, AU**  
 Building reliable data products, integrations, and automation across SQL Server, Power BI, Python, and Microsoft 365. I handle end‑to‑end IT delivery: discovery → design → build → test → document → train → run.
 
 ---
@@ -93,12 +93,12 @@ Building reliable data products, integrations, and automation across SQL Server,
 
 ## Tech toolbox
 
-**Languages & Data:** SQL (T‑SQL), Python (pandas, requests, pyodbc), DAX, M/Power Query
-**BI & Storage:** Power BI, SQL Server, SharePoint/OneDrive
-**Automation & Apps:** Power Automate (Cloud/Desktop), 3CX, Trackunit, Record360, Numerik, Twilio
-**AI/ML:** LangChain, Groq, Pinecone (cosine, 384‑dim), Hugging Face, Gradio
-**Cloud & Security:** Microsoft 365, Intune device management
-**Methods:** Agile/Scrum, documentation‑first, CI/CD mindset
+**Languages & Data:** SQL (T‑SQL), Python (pandas, requests, pyodbc), DAX, M/Power Query\
+**BI & Storage:** Power BI, SQL Server, SharePoint/OneDrive\
+**Automation & Apps:** Power Automate (Cloud/Desktop), 3CX, Trackunit, Record360, Numerik, Twilio\
+**AI/ML:** LangChain, Groq, Pinecone (cosine, 384‑dim), Hugging Face, Gradio\
+**Cloud & Security:** Microsoft 365, Intune device management\
+**Methods:** Agile/Scrum, documentation‑first, CI/CD mindset\
 **Also worked with:** R, Tableau, SPSS Modeler, RapidMiner, Salesforce, Qualtrics, Eloqua, QuestionPro
 
 ---
