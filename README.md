@@ -15,7 +15,7 @@ Building reliable data products, integrations, and automation across SQL Server,
 * Advocate for **data ethics** and analytical integrity; design processes that maintain data quality end‑to‑end.
 * Experienced **mentor and team lead**, driving standards in documentation, testing, and delivery.
 
-> *Open to interesting conversations and collaboration. Also connected with contacts in Adelaide.*
+> *Open to interesting conversations and collaboration.*
 
 ---
 
